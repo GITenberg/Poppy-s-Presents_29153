@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2468
     wikipedia: http://en.wikipedia.org/wiki/Amy_Catherine_Walton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29153#Poppy-s-Presents
 gutenberg_issued: '2009-06-18'
 gutenberg_type: Text
 identifiers:
