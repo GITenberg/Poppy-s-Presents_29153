@@ -1,0 +1,32 @@
+_repo: Poppy-s-Presents_29153
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29153-h/images/illus-cover.jpg
+creator:
+  author:
+    agent_name: Walton, O. F., Mrs.
+    aliases:
+    - Walton, Mrs O. F.
+    - Walton, Amy Catherine
+    - Deck, Amy Catherine
+    - Walton, Octavius Frank, Mrs.
+    birthdate: 1849
+    deathdate: 1939
+    gutenberg_agent_id: '2468'
+    url: http://www.gutenberg.org/2009/agents/2468
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Catherine_Walton
+description: ''
+gutenberg_issued: '2009-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29153'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Poppy's Presents
+url: http://www.gutenberg.org/ebooks/29153
